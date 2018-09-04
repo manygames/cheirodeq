@@ -1,0 +1,38 @@
+[
+    {
+      "imagem": "@drawable/sao_paulo_sp",
+      "tipo": "Hidratante",
+      "dias": "2",
+      "preco": "143.99"
+    },
+    {
+      "imagem": "@drawable/belo_horizonte_mg",
+      "tipo": "Perfume",
+      "dias": "3",
+      "preco": "243.99"
+    },
+    {
+      "imagem": "@drawable/foz_do_iguacu_pr",
+      "tipo": "Água de lençóis",
+      "dias": "4",
+      "preco": "343.99"
+    },
+    {
+      "imagem": "@drawable/recife_pe",
+      "tipo": "Odorizador",
+      "dias": "5",
+      "preco": "443.99"
+    },
+    {
+      "imagem": "@drawable/rio_de_janeiro_rj",
+      "tipo": "Espuma para corpo",
+      "dias": "2",
+      "preco": "543.99"
+    },
+    {
+      "imagem": "@drawable/salvador_ba",
+      "tipo": "Álcool em gel",
+      "dias": "2",
+      "preco": "643.99"
+    }
+  ]
