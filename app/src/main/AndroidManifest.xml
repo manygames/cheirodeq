@@ -9,16 +9,21 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ui.activity.ListaProdutosActivity">
+        <activity android:name=".ui.activity.ListaProdutosActivity" />
+        <activity android:name=".ui.activity.ResumoProdutoActivity" />
+        <activity android:name=".ui.activity.PagamentoActivity" />
+        <activity android:name=".ui.activity.ResumoCompraActivity" />
+        <activity android:name=".ui.activity.CarouselActivity" />
+        <activity android:name=".ui.activity.MyCarouselActivity"></activity>
+        <activity android:name="com.stone.transition.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ui.activity.ResumoProdutoActivity" />
-        <activity android:name=".ui.activity.PagamentoActivity" />
-        <activity android:name=".ui.activity.ResumoCompraActivity"></activity>
+        <activity android:name="com.stone.transition.DetailActivity" />
     </application>
 
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
 </manifest>

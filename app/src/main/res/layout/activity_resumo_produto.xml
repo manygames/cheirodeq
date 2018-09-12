@@ -78,7 +78,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="8dp"
         android:background="@drawable/botao_redondo_laranja"
-        android:text="@string/realizar_pagamento"
+        android:text="@string/realizar_p7agamento"
         android:textColor="@android:color/white"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
